@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lemmuel-turaya)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:turayalemmuel@gmail.com)
-[![Book a Call](https://img.shields.io/badge/📅_Book_a_Call-Cal.com-blue?style=for-the-badge)](https://cal.com/lemmuel-turaya/intro)
 
 <br/>
 
@@ -75,27 +74,17 @@
 
 <div align="center">
 
-![Kon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kon2raya24&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Kon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kon2raya24&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=issues&cache_seconds=3600)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kon2raya24&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kon2raya24&layout=compact&theme=radical&hide_border=true&cache_seconds=3600)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kon2raya24&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kon2raya24&theme=radical&hide_border=true&cache_seconds=3600)
 
 </div>
 
 ---
 
-## 💼 Open To
 
-```
-✅ Full-time positions (remote / hybrid / onsite)
-✅ Contract & freelance work
-✅ Open source collaboration
-```
-
-📅 **[Book a 15-min intro call →](https://cal.com/lemmuel-turaya/intro)**
-
----
 
 <div align="center">
 
