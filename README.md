@@ -90,6 +90,20 @@
 
 *⚡ Systems that move things. Code that ships. Results that matter.*
 
+
+---
+
+## 💼 Available For
+
+```
+✅ Contract / Project-based work
+✅ Part-time positions
+✅ Freelance & consulting
+❌ Full-time (currently employed)
+```
+
+---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=kon2raya24&color=blue&style=flat)
 
 </div>
