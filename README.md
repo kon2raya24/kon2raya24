@@ -74,11 +74,11 @@
 
 <div align="center">
 
-![Kon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kon2raya24&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=issues&cache_seconds=3600)
+![Lemmuel Turaya's GitHub stats](profile/stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kon2raya24&layout=compact&theme=radical&hide_border=true&cache_seconds=3600)
+![Most used languages](profile/languages.svg)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kon2raya24&theme=radical&hide_border=true&cache_seconds=3600)
+![GitHub Streak](https://streak-stats.demolab.com/?user=kon2raya24&theme=radical&hide_border=true)
 
 </div>
 
