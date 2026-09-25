@@ -1,0 +1,27 @@
+name: Profile cards
+
+# Renders profile/stats.svg and profile/languages.svg from public GitHub data once a day,
+# so the README does not depend on a third-party card service.
+on:
+  schedule:
+    - cron: '17 21 * * *' # 05:17 in the Philippines
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Render cards
+        run: node .github/scripts/cards.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit changed cards
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add profile/*.svg
+          git diff --cached --quiet || { git commit -m 'chore: refresh profile cards'; git push; }
